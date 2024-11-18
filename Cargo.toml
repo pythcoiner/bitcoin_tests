@@ -1,0 +1,9 @@
+[package]
+name = "bitcoin_24128"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+bitcoind = "0.36.0"
+miniscript = "12.2.0"
+rand = "0.8.5"
